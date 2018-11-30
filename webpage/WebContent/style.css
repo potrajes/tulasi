@@ -66,7 +66,8 @@ body{
 /*style icons section using bootstrap grid system */
 .bodyimage{
 	
-	height: 200px;
+    width:360%;
+    height: 360px;
 	
 	
 }
