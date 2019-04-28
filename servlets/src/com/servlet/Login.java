@@ -12,7 +12,7 @@ public class Login extends GenericServlet{
 	@Override
 	public void service(ServletRequest req, ServletResponse resp) throws ServletException, IOException {
 
-		System.out.println("iam in service method");
+		System.out.println("iam in tulasi service method");
 		
 		
 		
